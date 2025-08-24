@@ -1,5 +1,9 @@
 # 🤖 Простий розважальний чат-бот
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gamechatbot2025.streamlit.app/)
+
+
+
 Легкий у розумінні чат-бот для початківців, який можна запустити на Streamlit Cloud за 5 хвилин!
 
 ## 🌟 Можливості
